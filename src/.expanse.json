@@ -131,6 +131,37 @@
       "parentId": "88453035-dc0f-486d-868a-8ff7c2fda864",
       "order": 0.6644431107322474,
       "hidden": false
+    },
+    "2b4518c5-96ab-4c03-8054-24078f4bb7f5": {
+      "id": "2b4518c5-96ab-4c03-8054-24078f4bb7f5",
+      "position": [
+        0,
+        1.3585905290499638,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "geometry": {
+        "type": "sphere",
+        "radius": 0.5
+      },
+      "material": {
+        "type": "basic",
+        "color": "#00ff55"
+      },
+      "parentId": "88453035-dc0f-486d-868a-8ff7c2fda864",
+      "components": {},
+      "name": "Esfera",
+      "order": 2.5945854300377427
     }
   },
   "spaces": {
