@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 47,
+    "left": 0,
+    "width": 1417,
+    "height": 1889,
+    "isRotated": false,
+    "originalWidth": 1417,
+    "originalHeight": 1984
+  },
+  "imagePath": "image-targets/AFICHE CRIMINAL_luminance.jpg",
+  "metadata": null,
+  "name": "AFICHE CRIMINAL",
+  "resources": {
+    "originalImage": "AFICHE CRIMINAL_original.jpg",
+    "croppedImage": "AFICHE CRIMINAL_cropped.jpg",
+    "thumbnailImage": "AFICHE CRIMINAL_thumbnail.jpg",
+    "luminanceImage": "AFICHE CRIMINAL_luminance.jpg"
+  },
+  "created": 1792183072929,
+  "updated": 1792183072929
+}

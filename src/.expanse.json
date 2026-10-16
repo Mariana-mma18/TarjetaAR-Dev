@@ -29,53 +29,14 @@
       "order": 0.4038940050501252,
       "hidden": false
     },
-    "729478ae-d067-4e0c-a753-66c2e9efb625": {
-      "components": {
-        "8fe14f4e-4311-4b03-807d-a34c9c11368d": {
-          "id": "8fe14f4e-4311-4b03-807d-a34c9c11368d",
-          "name": "example-component",
-          "parameters": {}
-        }
-      },
-      "geometry": {
-        "depth": 1,
-        "height": 1,
-        "type": "box",
-        "width": 1
-      },
-      "id": "729478ae-d067-4e0c-a753-66c2e9efb625",
-      "material": {
-        "color": "#7400b3",
-        "type": "basic",
-        "textureFiltering": "sharp"
-      },
-      "name": "Box",
-      "position": [
-        0,
-        0.5,
-        0
-      ],
-      "rotation": [
-        0,
-        0,
-        0,
-        1
-      ],
-      "scale": [
-        1,
-        1,
-        1
-      ],
-      "parentId": "88453035-dc0f-486d-868a-8ff7c2fda864",
-      "order": 1.4038940050501252
-    },
     "a608ddd9-9379-464d-966f-5d8d8674c83c": {
       "camera": {
         "type": "perspective",
         "xr": {
-          "desktop": "3D",
-          "xrCameraType": "3dOnly",
-          "headset": "disabled"
+          "desktop": "disabled",
+          "xrCameraType": "world",
+          "headset": "disabled",
+          "phone": "AR"
         }
       },
       "components": {},
@@ -132,12 +93,12 @@
       "order": 0.6644431107322474,
       "hidden": false
     },
-    "2b4518c5-96ab-4c03-8054-24078f4bb7f5": {
-      "id": "2b4518c5-96ab-4c03-8054-24078f4bb7f5",
+    "129543cf-68ff-4c81-9882-02f0db845141": {
+      "id": "129543cf-68ff-4c81-9882-02f0db845141",
       "position": [
-        0,
-        1.3585905290499638,
-        0
+        -0.11542737002252812,
+        0.8073371275445012,
+        0.6374564724082612
       ],
       "rotation": [
         0,
@@ -150,18 +111,15 @@
         1,
         1
       ],
-      "geometry": {
-        "type": "sphere",
-        "radius": 0.5
-      },
-      "material": {
-        "type": "basic",
-        "color": "#00ff55"
-      },
+      "geometry": null,
+      "material": null,
       "parentId": "88453035-dc0f-486d-868a-8ff7c2fda864",
       "components": {},
-      "name": "Esfera",
-      "order": 2.5945854300377427
+      "name": "AFICHE CRIMINAL",
+      "imageTarget": {
+        "name": "AFICHE CRIMINAL"
+      },
+      "order": 3.2168962592079566
     }
   },
   "spaces": {
