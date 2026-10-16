@@ -96,9 +96,9 @@
     "129543cf-68ff-4c81-9882-02f0db845141": {
       "id": "129543cf-68ff-4c81-9882-02f0db845141",
       "position": [
-        -0.11542737002252812,
+        0.024677588969316766,
         0.8073371275445012,
-        0.6374564724082612
+        0.40017563398205036
       ],
       "rotation": [
         0,
@@ -120,6 +120,80 @@
         "name": "AFICHE CRIMINAL"
       },
       "order": 3.2168962592079566
+    },
+    "a00726ea-2652-4cb9-b962-eabe0ae4323b": {
+      "id": "a00726ea-2652-4cb9-b962-eabe0ae4323b",
+      "position": [
+        -0.38774500004353196,
+        1.0544597827821218,
+        0.4360620572533762
+      ],
+      "rotation": [
+        0.7071067811865476,
+        1.232595164407831e-32,
+        1.232595164407831e-32,
+        0.7071067811865475
+      ],
+      "scale": [
+        0.2,
+        0.2,
+        0.2
+      ],
+      "geometry": null,
+      "material": null,
+      "parentId": "88453035-dc0f-486d-868a-8ff7c2fda864",
+      "components": {},
+      "gltfModel": {
+        "src": {
+          "type": "asset",
+          "asset": "assets/LETRAS_CRIMINAL.glb"
+        },
+        "animationClip": "",
+        "loop": true
+      },
+      "name": "LETRAS_CRIMINAL.glb",
+      "order": 5.107651570455486
+    },
+    "9f4814ab-6aea-4e20-9b5f-bb7671ce5484": {
+      "id": "9f4814ab-6aea-4e20-9b5f-bb7671ce5484",
+      "position": [
+        -0.21033287673885473,
+        0.7100804897597318,
+        0.4154817106261368
+      ],
+      "rotation": [
+        0.7071067811865475,
+        0,
+        0,
+        0.7071067811865476
+      ],
+      "scale": [
+        0.1,
+        0.1,
+        0.1
+      ],
+      "geometry": null,
+      "material": null,
+      "parentId": "88453035-dc0f-486d-868a-8ff7c2fda864",
+      "components": {
+        "5aa13f7f-161b-476e-97af-01e8c5813d44": {
+          "id": "5aa13f7f-161b-476e-97af-01e8c5813d44",
+          "name": "Open URL 3D Object",
+          "parameters": {
+            "url": "https://open.spotify.com/intl-es/album/6aO2GSrxAJk6I5ZSP3p4C2?si=lpaK9IhrQTqlT_nFojJ7Mw"
+          }
+        }
+      },
+      "gltfModel": {
+        "src": {
+          "type": "asset",
+          "asset": "assets/LOGO_SPOTIFY.glb"
+        },
+        "animationClip": "",
+        "loop": true
+      },
+      "name": "LOGO_SPOTIFY.glb",
+      "order": 6.4248293722523995
     }
   },
   "spaces": {
